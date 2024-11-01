@@ -369,10 +369,10 @@ I do to make this work well:
 
 * If my repo is called `vroom-yapcna2009-talk`, then after I publish
    the talk to the gh-pages branch, it will be available as
-   [http://ingydotnet.github.com/vroom-yapcna2009-talk].
+   [http://ingydotnet.github.io/vroom-yapcna2009-talk].
    I then link this url from
    http://github.com/ingydotnet/vroom-yapcna2009-talk as the Homepage
    url.
 
 You can see an example of a talk published to HTML and posted via gh-pages
-at [http://ingydotnet.github.com/vroom-pm/].
+at [http://ingydotnet.github.io/vroom-pm/].

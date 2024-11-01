@@ -386,11 +386,11 @@ I do to make this work well:
 it will generate a script called C<ghpublish> that contains commands like the
 ones above, to publish your slides to a gh-pages branch.
 
-=item * If my repo is called C<vroom-yapcna2009-talk>, then after I publish  the talk to the gh-pages branch, it will be available as  L<http://ingydotnet.github.com/vroom-yapcna2009-talk>.  I then link this url from  L<http://github.com/ingydotnet/vroom-yapcna2009-talk> as the Homepage  url.
+=item * If my repo is called C<vroom-yapcna2009-talk>, then after I publish  the talk to the gh-pages branch, it will be available as  L<http://ingydotnet.github.io/vroom-yapcna2009-talk>.  I then link this url from  L<http://github.io/ingydotnet/vroom-yapcna2009-talk> as the Homepage  url.
 
 =back
 
 You can see an example of a talk published to HTML and posted via gh-pages at
-L<http://ingydotnet.github.com/vroom-pm/>.
+L<http://ingydotnet.github.io/vroom-pm/>.
 
 =cut
